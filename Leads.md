@@ -49,5 +49,20 @@
 
 > There have been many labels thrust upon the Millennial generation, especially when it comes to their work ethic. The group has been called lazy, entitled, and spoiled—but at the same time the generation has also been heralded for its collective innovation and desire to work for something other than money.
 
+# Promise of humor
+
+> If you think you stop having sex when you get older, you’re very, very wrong. Not only do studies show that sex gets better with age, but new research has confirmed that seniors are using the Internet to talk about sex. Yes, in between all those comments that don’t really make much sense on your Facebook wall, your grandparents are going online to talk about sex with their fellow seniors.
+
+# Just the right amount of vague overview of subject that doesn't actually give detail
+
+> Just in case you need another reason to love one of the best Saturday Night Live alums around, Bill Hader, his recent prank attempt at Iroquois High School in Buffalo, New York should suffice.
+
+# INSCRUTABLE but effective
+
+> There’s a quote that’s often attributed to Hemingway: “Write drunk, edit sober.” The truth is that these are not actually Hemingway’s words — thanks, Internet! — but you’ll see them around everywhere, and plenty of writers use them as an excuse to pour a glass or nine and hit the keyboard to find their inspiration…much to the chagrin of basically everyone who has to edit their work.
+
 ___ 
 
+> Though Hailey Fort is only 9 years old, she has already done more to help the homeless and needy than many of us have. This young girl spends her free time building mobile shelters for the homeless, and even grows food and provides toiletries for them, too!
+
+> You're a stylish lady. You have all the right elements for putting together a killer outfit. But the devil is in the details--and even the slightest of styling tricks can take an ensemble to the next level.
