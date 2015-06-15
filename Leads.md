@@ -1,6 +1,5 @@
 # The problem simplified, the solution simplified
 
-
 > Strawberries are a very soft fruit and they can also spoil fast if you’re not careful. To get the longest shelf life out of your strawberries, just follow these rules.
 
 > A low credit score can make it harder to buy a house, lease a car, or even rent an apartment. Luckily, there are easy enough ways to improve your score. But sometimes, you’ll have to ding your score in order to boost it.
@@ -13,7 +12,7 @@
 
 > Vacations are stressful affairs and there’s usually a lot more to do then just pack everything up. The Art of Manliness put together a checklist that covers everything from making phone calls to charging your devices.
 
-# Developed problem, solution hinted
+# Developed problem, solution only hinted
 
 > Last month, I took a nice, two-week vacation. I was excited, but even shortly into the trip, I was also dreading the awful feeling of coming back. It’s not the best attitude to have, but it’s easy to get anxious when vacations go by so fast. Before you know it, you’re stuck in the same grind you were in before you left. This time, I wanted things to be different.
 
@@ -32,7 +31,7 @@
 
 > There are two kinds of people in this world: Those who enjoy tracking what they do with their time all day, and the rest of us, who’d rather watch paint dry. I used to be in the latter group...until I discovered I was doing it all wrong.
 
-# Something you knew, but then also something more
+# Something you know, but then also something more
 
 > You already know not to grocery shop hungry, but the type of snack you have may make a difference. In a recent study, shoppers who sampled an apple selected 28% more fruits and vegetables than those who didn’t get a sample at all.
 
@@ -44,6 +43,14 @@
 # Thrust right into the narrative (dialogue)
 
 > “My Jeremy is coming to visit this weekend,” Maddy whispered to me one night while we were out for a friend’s birthday.
+
+## Thrust into narrative, transition 
+
+> “Well, you’re just special. You’re American,” remarked my colleague, smirking from across the coffee table. My other Finnish coworkers, from the school in Helsinki where I teach, nodded in agreement. They had just finished critiquing one of my habits, and they could see that I was on the defensive.
+> I threw my hands up and snapped, “You’re accusing me of being too friendly? Is that really such a bad thing?”
+> “Well, when I greet a colleague, I keep track,” she retorted, “so I don’t greet them again during the day!” Another chimed in, “That’s the same for me, too!”
+> Unbelievable, I thought. According to them, I’m too generous with my hellos.
+> When I told them I would do my best to greet them just once every day, they told me not to change my ways. They said they understood me. But the thing is, now that I’ve viewed myself from their perspective, I’m not sure I want to remain the same. Change isn’t a bad thing. And since moving to Finland two years ago, I’ve kicked a few bad American habits.
 
 # One side, the other side
 
