@@ -26,6 +26,8 @@
 
 > In the last month, both Apple and Google had press conferences showing off their new operating systems. Both were met with a resounding “meh” followed by outcries that Apple’s just an imitator these days. Here’s an unpopular opinion: I don’t care.
 
+> In Britain, a beloved institution is facing calls for a radical overhaul. No, not the monarchy, or the House of Lords, or the BBC, or even the unwritten constitution. The pillar of culture currently being agonized over, upon which the nation’s identity rests, is the James Bond franchise, and the question of which actor might next be chosen to play the titular spy. Will Brits finally be ready to cast aside old prejudices and embrace diversity? Might the next 007 be … a redhead?
+
 
 # General fact, personalalized contradiction
 
@@ -56,17 +58,33 @@
 
 > If you think you stop having sex when you get older, you’re very, very wrong. Not only do studies show that sex gets better with age, but new research has confirmed that seniors are using the Internet to talk about sex. Yes, in between all those comments that don’t really make much sense on your Facebook wall, your grandparents are going online to talk about sex with their fellow seniors.
 
+> If you took big business gravitas, a whole lot of money, a dash of military pride and about half a handle of very fine bourbon, shook them vigorously in a cocktail shaker, then threw said shaker into a deep, dark ravine, that’s the closest approximation I can give you to Donald Trump’s 2016 presidential announcement on Tuesday.
+
 # Just the right amount of vague overview of subject that doesn't actually give detail
 
 > Just in case you need another reason to love one of the best Saturday Night Live alums around, Bill Hader, his recent prank attempt at Iroquois High School in Buffalo, New York should suffice.
+
+# "Friendly" cautionary
+
+> Have you ever found yourself staring out the office window, wishing you could pack your bags and move to South America like your impulsive best friend from high school? It’s almost everyone’s favorite daydream, but before you start buying a plane ticket, you might want to check out this infographic depicting the quality of life around the world.
 
 # Ironic, and completely counter to audience's sensibility
 
 > Pretty great final two minutes of Game of Thrones season 5, huh? How about that part where a character you were absolutely sure was crucial to the ultimate resolution of the show—the small matter of a battle between “fire” and “ice”—just got mercilessly snuffed out before your eyes and then the credits rolled?
 
-# Straightforward description of something unexpected
+# Straightforward description of something unexpected/incredible
 
 > Starting on Monday and spanning the next three weeks, members of the San Francisco Board of Supervisors and Mayor Ed Lee have accepted a challenge to ride public transportation daily in order to better understand the frustrations and joys that residents experience on San Francisco Municipal Railway on a daily basis.
+
+> Physicists have chilled molecules to just a smidgen above absolute zero — colder than the afterglow of the Big Bang.
+
+> A new survey of over 2,000 female participants between the ages of 18 and 40 by pharmaceutical company Merck found that less than 1 in 10 women make the first move. _Less than one in 10_.
+
+Read more: http://www.businessinsider.com/scientists-create-the-coldest-material-on-earth-2015-6#ixzz3dGIOgZee
+
+# Unabashed, unexplained mystery
+
+> A video posted to YouTube this week from Malaysia features loud, strange sounds emanating from seemingly nowhere. It is only the latest video documenting a phenomenon that has people all over the world reporting that they hear mysterious trumpet sounds coming from the sky.
 
 # INSCRUTABLE… but effective
 
