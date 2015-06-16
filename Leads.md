@@ -64,6 +64,10 @@
 
 > Pretty great final two minutes of Game of Thrones season 5, huh? How about that part where a character you were absolutely sure was crucial to the ultimate resolution of the show—the small matter of a battle between “fire” and “ice”—just got mercilessly snuffed out before your eyes and then the credits rolled?
 
+# Straightforward description of something unexpected
+
+> Starting on Monday and spanning the next three weeks, members of the San Francisco Board of Supervisors and Mayor Ed Lee have accepted a challenge to ride public transportation daily in order to better understand the frustrations and joys that residents experience on San Francisco Municipal Railway on a daily basis.
+
 # INSCRUTABLE… but effective
 
 > There’s a quote that’s often attributed to Hemingway: “Write drunk, edit sober.” The truth is that these are not actually Hemingway’s words — thanks, Internet! — but you’ll see them around everywhere, and plenty of writers use them as an excuse to pour a glass or nine and hit the keyboard to find their inspiration…much to the chagrin of basically everyone who has to edit their work.
