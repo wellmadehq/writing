@@ -64,6 +64,10 @@
 
 > If you took big business gravitas, a whole lot of money, a dash of military pride and about half a handle of very fine bourbon, shook them vigorously in a cocktail shaker, then threw said shaker into a deep, dark ravine, that’s the closest approximation I can give you to Donald Trump’s 2016 presidential announcement on Tuesday.
 
+# Promise of something unusual
+
+> Greeting card artist and dad of two Brian Gordon wanted to create a comic that was a bit more personal than usual.
+
 # Just the right amount of vague overview of subject that doesn't actually give detail
 
 > Just in case you need another reason to love one of the best Saturday Night Live alums around, Bill Hader, his recent prank attempt at Iroquois High School in Buffalo, New York should suffice.
