@@ -26,11 +26,11 @@
 
 > In the last month, both Apple and Google had press conferences showing off their new operating systems. Both were met with a resounding “meh” followed by outcries that Apple’s just an imitator these days. Here’s an unpopular opinion: I don’t care.
 
+> In Britain, a beloved institution is facing calls for a radical overhaul. No, not the monarchy, or the House of Lords, or the BBC, or even the unwritten constitution. The pillar of culture currently being agonized over, upon which the nation’s identity rests, is the James Bond franchise, and the question of which actor might next be chosen to play the titular spy. Will Brits finally be ready to cast aside old prejudices and embrace diversity? Might the next 007 be … a redhead?
+
 # Big time drama (and nothing else)
 
 > By all the most important metrics, Nintendo’s Wii U has been a flop. After 30 months, lifetime sales sit at a paltry 10 million, over 80% less than the pace set by the original Wii. The Wii U’s big gimmick—a giant, touchscreen-enabled gamepad—has failed to click with consumers. Meanwhile, support from third-party developers is as low as it’s ever been for a Nintendo gaming machine.
-
-> In Britain, a beloved institution is facing calls for a radical overhaul. No, not the monarchy, or the House of Lords, or the BBC, or even the unwritten constitution. The pillar of culture currently being agonized over, upon which the nation’s identity rests, is the James Bond franchise, and the question of which actor might next be chosen to play the titular spy. Will Brits finally be ready to cast aside old prejudices and embrace diversity? Might the next 007 be … a redhead?
 
 
 # General fact, personalalized contradiction
@@ -86,11 +86,15 @@
 
 > Physicists have chilled molecules to just a smidgen above absolute zero — colder than the afterglow of the Big Bang.
 
-> A new survey of over 2,000 female participants between the ages of 18 and 40 by pharmaceutical company Merck found that less than 1 in 10 women make the first move. _Less than one in 10_.
+> A new survey of ove. 2,000 female participants between the ages of 18 and 40 by pharmaceutical company Merck found that less than 1 in 10 women make the first move. _Less than one in 10_.
 
 # Unabashed, unexplained mystery
 
 > A video posted to YouTube this week from Malaysia features loud, strange sounds emanating from seemingly nowhere. It is only the latest video documenting a phenomenon that has people all over the world reporting that they hear mysterious trumpet sounds coming from the sky.
+
+# Unabashed, giddy hyperbole
+
+> This artwork of Dominion's Angel War deserves to be painted on your van. Seriously — who hasn't wanted this exact scene of an angelic flamethrower throwdown taped to the ceiling right over their beds?
 
 # INSCRUTABLE… but effective
 
