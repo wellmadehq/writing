@@ -101,6 +101,8 @@
 
 > A new study says salt isn’t nearly as bad for you as previously thought. In fact, when it’s combined with fat, something magical happens.
 
+> Holy. Crap. This is just madness. Watch as British pilots Paul Bonhomme and Steve Jones fly through an airplane hangar in two different airplanes while zipping through the air at 185mph. That’s right, two planes flying side-by-side, separated by only a few feet, flew straight through a building. I mean, damn.
+
 > A new survey of ove. 2,000 female participants between the ages of 18 and 40 by pharmaceutical company Merck found that less than 1 in 10 women make the first move. _Less than one in 10_.
 
 > This planthopper can jump fast, far, and repeatedly. How does it manage to jump so well? Biologists decided to find out — and they realized that this insect has literal interlocking gears in its legs.
