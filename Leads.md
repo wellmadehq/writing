@@ -18,6 +18,8 @@
 
 > If your kids are anything like mine, the first thing they want to do when they get home from school or wake up in the morning is turn on something with a screen. Usually the computer with Minecraft on it. Keep them productive and also limit screen time with a must-do list.
 
+> E3 2015’s top head-scratcher so far: Why would Nintendo bring back their dormant Metroid franchise, a series known for fairly quiet, careful solo sci-fi exploration, with a multiplayer shooter that’s also a sports game? Good thing I had a half hour with the game’s producer to find out.
+
 # Dramatized statement of subject's importance
 
 > For years, we’ve talked about finding the right woman — someone we can rides the waves of life with, who will stand by our side for better or for worse. As a man, committing to The One is among the most important decisions we make in life; some may even argue it is the most important.
@@ -31,6 +33,10 @@
 # Big time drama (and nothing else)
 
 > By all the most important metrics, Nintendo’s Wii U has been a flop. After 30 months, lifetime sales sit at a paltry 10 million, over 80% less than the pace set by the original Wii. The Wii U’s big gimmick—a giant, touchscreen-enabled gamepad—has failed to click with consumers. Meanwhile, support from third-party developers is as low as it’s ever been for a Nintendo gaming machine.
+
+> George R.R. Martin's most recent novel, _A Dance with Dragons_, was published in 2011, the same year that the TV show began, and we've read nothing new since. Which puts showrunners David Benioff and D. B. Weiss in a pickle. Specifically: Unless Martin really knuckles down, they're out of source material for 2016's inevitable season six.
+
+> You wake up abruptly. You reach to wipe your sweat-strewn brow with your sheet, but realise you’re too late. “Uh oh,” you think. “I’ve actually gone and pissed myself”. After some tentative sniffing you surmise that the substance drenching your sheets isn’t your own effluence, but your sweat. It’s the Tuesday after a festival and your post-comedown systems are kicking in. You’re a limp schnitzel wrapped in a giant sweat-sodden wrap – and you’ve awoken from a horrific nightmare. Something about a 20-stone woman giving you a hand job and forcing you to listen to Nickelback’s obscure debut album. No amount of sunshine can save you today.
 
 
 # General fact, personalalized contradiction
@@ -49,10 +55,17 @@
 
 > If you shop online, an Amazon Prime membership is easily worth it for the free two-day shipping alone. But that’s not all a Prime membership gets you. Here are some of the perks you may have forgotten.
 
+> Deadpool as a character is known for his ability to tear a gaping hole through the fourth wall — so a whole series about him going back to the original 1984 Secret Wars event and mucking around isn’t out of character. But the series’ second issue, out today, also has one of the most bizarre deep cuts I’ve ever seen in a Marvel comic.
+
+# Innate shock value
+
+> Not many people know this, but those hops in your favorite IPA are actually wonderful medicine for insomnia and menopause, thanks to their high phytoestrogen content. These same phytoestrogens, however, might be less desirable for men, as indicated by the common condition known among brewers as Brewer’s Droop.
+
 
 # Thrust right into the narrative (dialogue)
 
 > “My Jeremy is coming to visit this weekend,” Maddy whispered to me one night while we were out for a friend’s birthday.
+
 
 # One side, the other side
 
@@ -86,7 +99,11 @@
 
 > Physicists have chilled molecules to just a smidgen above absolute zero — colder than the afterglow of the Big Bang.
 
+> A new study says salt isn’t nearly as bad for you as previously thought. In fact, when it’s combined with fat, something magical happens.
+
 > A new survey of ove. 2,000 female participants between the ages of 18 and 40 by pharmaceutical company Merck found that less than 1 in 10 women make the first move. _Less than one in 10_.
+
+> This planthopper can jump fast, far, and repeatedly. How does it manage to jump so well? Biologists decided to find out — and they realized that this insect has literal interlocking gears in its legs.
 
 # Unabashed, unexplained mystery
 
