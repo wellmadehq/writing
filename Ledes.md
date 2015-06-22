@@ -1,4 +1,4 @@
-# The problem simplified, the solution simplified
+# Simplified problem, simplified solution
 
 > Strawberries are a very soft fruit and they can also spoil fast if you’re not careful. To get the longest shelf life out of your strawberries, just follow these rules.
 
@@ -10,7 +10,7 @@
 
 > For such a small thing, babies can be downright intimidating, especially when you’re a first-time parent. Infants don’t come with instruction manuals, so here’s a Baby 101 survival guide for those delicate and trying first months of living with a newborn.
 
-> Vacations are stressful affairs and there’s usually a lot more to do then just pack everything up. The Art of Manliness put together a checklist that covers everything from making phone calls to charging your devices.
+> Vacations are stressful affairs and there’s usually a lot more to do than just pack everything up. The Art of Manliness put together a checklist that covers everything from making phone calls to charging your devices.
 
 # Developed problem, solution only hinted
 
@@ -20,9 +20,9 @@
 
 > E3 2015’s top head-scratcher so far: Why would Nintendo bring back their dormant Metroid franchise, a series known for fairly quiet, careful solo sci-fi exploration, with a multiplayer shooter that’s also a sports game? Good thing I had a half hour with the game’s producer to find out.
 
-# Dramatized statement of subject's importance
+# Dramatized subject's importance
 
-> For years, we’ve talked about finding the right woman — someone we can rides the waves of life with, who will stand by our side for better or for worse. As a man, committing to The One is among the most important decisions we make in life; some may even argue it is the most important.
+> For years, we’ve talked about finding the right woman — someone we can ride the waves of life with, who will stand by our side for better or for worse. As a man, committing to The One is among the most important decisions we make in life; some may even argue it is the most important.
 
 # Big-time drama, anticlimax
 
@@ -39,11 +39,11 @@
 > You wake up abruptly. You reach to wipe your sweat-strewn brow with your sheet, but realise you’re too late. “Uh oh,” you think. “I’ve actually gone and pissed myself”. After some tentative sniffing you surmise that the substance drenching your sheets isn’t your own effluence, but your sweat. It’s the Tuesday after a festival and your post-comedown systems are kicking in. You’re a limp schnitzel wrapped in a giant sweat-sodden wrap – and you’ve awoken from a horrific nightmare. Something about a 20-stone woman giving you a hand job and forcing you to listen to Nickelback’s obscure debut album. No amount of sunshine can save you today.
 
 
-# General fact, personalalized contradiction
+# General fact, personalized contradiction
 
 > Most of us own too much junk. But after a couple of interstate moves in just as many years, I’ve learned the value of owning less.
 
-# Admission of one's past wrongness
+# "I was wrong"
 
 > There are two kinds of people in this world: Those who enjoy tracking what they do with their time all day, and the rest of us, who’d rather watch paint dry. I used to be in the latter group...until I discovered I was doing it all wrong.
 
@@ -57,17 +57,19 @@
 
 > Deadpool as a character is known for his ability to tear a gaping hole through the fourth wall — so a whole series about him going back to the original 1984 Secret Wars event and mucking around isn’t out of character. But the series’ second issue, out today, also has one of the most bizarre deep cuts I’ve ever seen in a Marvel comic.
 
-# Innate shock value
+> You're a stylish lady. You have all the right elements for putting together a killer outfit. But the devil is in the details--and even the slightest of styling tricks can take an ensemble to the next level.
 
-> Not many people know this, but those hops in your favorite IPA are actually wonderful medicine for insomnia and menopause, thanks to their high phytoestrogen content. These same phytoestrogens, however, might be less desirable for men, as indicated by the common condition known among brewers as Brewer’s Droop.
+# Shock value
+
+> Not many people know this, but those hops in your favorite IPA are actually wonderful medicine for insomnia and menopause, thanks to their high phytoestrogen content. These same phytoestrogens, however, might be less desirable for men, as indicated by the common saggy man chest known among brewers as "Brewer’s Droop".
 
 
-# Thrust right into the narrative (dialogue)
+# Intriguing dialogue
 
 > “My Jeremy is coming to visit this weekend,” Maddy whispered to me one night while we were out for a friend’s birthday.
 
 
-# One side, the other side
+# Two balanced incompatibles
 
 > There have been many labels thrust upon the Millennial generation, especially when it comes to their work ethic. The group has been called lazy, entitled, and spoiled—but at the same time the generation has also been heralded for its collective innovation and desire to work for something other than money.
 
@@ -77,19 +79,15 @@
 
 > If you took big business gravitas, a whole lot of money, a dash of military pride and about half a handle of very fine bourbon, shook them vigorously in a cocktail shaker, then threw said shaker into a deep, dark ravine, that’s the closest approximation I can give you to Donald Trump’s 2016 presidential announcement on Tuesday.
 
-# Promise of something unusual
+# Promise of the unusual
 
 > Greeting card artist and dad of two Brian Gordon wanted to create a comic that was a bit more personal than usual.
-
-# Just the right amount of vague overview of subject that doesn't actually give detail
-
-> Just in case you need another reason to love one of the best Saturday Night Live alums around, Bill Hader, his recent prank attempt at Iroquois High School in Buffalo, New York should suffice.
 
 # "Friendly" cautionary
 
 > Have you ever found yourself staring out the office window, wishing you could pack your bags and move to South America like your impulsive best friend from high school? It’s almost everyone’s favorite daydream, but before you start buying a plane ticket, you might want to check out this infographic depicting the quality of life around the world.
 
-# Ironic, and completely counter to audience's sensibility
+# Ironic and counter to audience's sensibility
 
 > Pretty great final two minutes of Game of Thrones season 5, huh? How about that part where a character you were absolutely sure was crucial to the ultimate resolution of the show—the small matter of a battle between “fire” and “ice”—just got mercilessly snuffed out before your eyes and then the credits rolled?
 
@@ -122,5 +120,3 @@
 ___ 
 
 > Though Hailey Fort is only 9 years old, she has already done more to help the homeless and needy than many of us have. This young girl spends her free time building mobile shelters for the homeless, and even grows food and provides toiletries for them, too!
-
-> You're a stylish lady. You have all the right elements for putting together a killer outfit. But the devil is in the details--and even the slightest of styling tricks can take an ensemble to the next level.
