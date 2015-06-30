@@ -38,6 +38,8 @@
 
 > You wake up abruptly. You reach to wipe your sweat-strewn brow with your sheet, but realise you’re too late. “Uh oh,” you think. “I’ve actually gone and pissed myself”. After some tentative sniffing you surmise that the substance drenching your sheets isn’t your own effluence, but your sweat. It’s the Tuesday after a festival and your post-comedown systems are kicking in. You’re a limp schnitzel wrapped in a giant sweat-sodden wrap – and you’ve awoken from a horrific nightmare. Something about a 20-stone woman giving you a hand job and forcing you to listen to Nickelback’s obscure debut album. No amount of sunshine can save you today.
 
+> Chronic back pain is both bad and common enough that it has been described as a modern epidemic.
+
 
 # General fact, personalized contradiction
 
